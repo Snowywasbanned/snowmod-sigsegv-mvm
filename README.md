@@ -2,6 +2,9 @@
 gigantic, obese SourceMod extension library of sigsegv's and rafradek's TF2/Source mods (mostly MvM related)
 For other Source games, only optimize-only package is provided
 
+# this is mostly a modified version of sigsegv/rafmod for my server, so that bwrr can work smoothly with it.
+lmao
+
 # Tips
 
 How to run a TF2 server on Windows using WSL: https://github.com/rafradek/sigsegv-mvm/wiki/Installing-on-Windows-with-WSL
