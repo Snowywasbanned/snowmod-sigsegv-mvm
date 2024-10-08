@@ -44,7 +44,7 @@
 					type "sym"
 					sym  "_ZNK6CTFBot21GetIntentionInterfaceEv"
 				}
-				
+				// XD
 				"CTFBot::PressFireButton"
 				{
 					type "sym"
@@ -60,7 +60,7 @@
 					type "sym"
 					sym  "_ZN6CTFBot22PressSpecialFireButtonEf"
 				}
-				
+				// I don't know why but this shit haunts me like i'm a tf2 developer, what the fuck
 				"CTFBot::SetMission"
 				{
 					type "sym"
@@ -254,7 +254,7 @@
 					type "sym"
 					sym  "_ZNK6CTFBot20GetTimeLeftToCaptureEv"
 				}
-				
+				//oh no dr disrespect touched me AAAAA
 				"CTFBot::Touch"
 				{
 					type "sym"
@@ -296,7 +296,7 @@
 					type "sym"
 					sym  "_ZN6CTFBot5SpawnEv"
 				}
-				
+				//this is so fucking suffed we need to fix this by making what class they are and predict, like how cathook works the bot program thing whatever
 				"CTFBot::EquipBestWeaponForThreat"
 				{
 					type "sym"
